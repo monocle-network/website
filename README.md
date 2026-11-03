@@ -10,11 +10,11 @@ The Monocle Network website ([monoclenetwork.org](https://monoclenetwork.org)) i
 
 ## License
 
-The website is released under the [GNU Affero General Public License v3](https://github.com/monocle-network/monoclenetwork.org/blob/main/LICENSE.md).
+The website is released under the [GNU Affero General Public License v3](https://github.com/monocle-network/website/blob/main/LICENSE.md).
 
 ## Contributing
 
-Contributions to the website are welcome. To report a typo, suggest an improvement, request a new page, or discuss another website-related change, open an issue in the [website repository](https://github.com/monocle-network/monoclenetwork.org/issues).
+Contributions to the website are welcome. To report a typo, suggest an improvement, request a new page, or discuss another website-related change, open an issue in the [website repository](https://github.com/monocle-network/website/issues).
 
 ## Authors
 
